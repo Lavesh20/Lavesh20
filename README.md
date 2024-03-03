@@ -21,3 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lavesh20&show_icons=true&locale=en&layout=compact" alt="lavesh20" /></p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Lavesh20&theme=dark)](https://git.io/streak-stats)
+
+
