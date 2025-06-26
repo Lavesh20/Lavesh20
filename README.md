@@ -1,4 +1,4 @@
-<h1 align="center">01001000 01101001 00101100 00100000 01001001 00100111 01101101 00100000 01001100 01100001 01110110 01100101 01110011 01101000
+<h1 align="center">Hi I am Lavesh Vyas
 
  </h1>
 <h3 align="center">A passionate Web developer from India</h3>
